@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "DIGI24 HD",
+    "description": "Google DASH Test Stream",
+    "videoUrl": "https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Generale",
+    "duration": 0,
+    "headers": ""
+  },
+  {
+    "id": 2,
+    "title": "ANTENA3",
+    "description": "AN3 Live Stream",
+    "videoUrl": "https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Generale",
+    "duration": 0,
+    "headers": "Referer: https://www.cool-etv.net/ch/an3.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+  },
+  {
+    "id": 3,
+    "title": "B1",
+    "description": "B1 Live Stream",
+    "videoUrl": "https://saruman1.tharen.cfd/b1/usergenrnd840zwl3m.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Generale",
+    "duration": 0,
+    "headers": "Referer: https://saruman1.tharen.cfd/000/b1.html\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+  },
+  {
+    "id": 4,
+    "title": "TVR1",
+    "description": "TVR1 Live Stream",
+    "videoUrl": "https://ultra2.falconx.cfd/t001/usergend4sdkx9q2rnd.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Generale",
+    "duration": 0,
+    "headers": "Referer: https://www.cool-etv.net/ch/tvr1.htm\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+  },
+  {
+    "id": 5,
+    "title": "TVR2",
+    "description": "TVR2 Live Stream",
+    "videoUrl": "https://thor1.syndula.cfd/tevere2/usergendxl6d4vnd.m3u8",
+    "thumbnailUrl": "android.resource://com.example.androidtvm3uplayer/drawable/livetv",
+    "category": "Generale",
+    "duration": 0,
+    "headers": "Referer: https://www.cool-etv.net/ch/an1-s2.htm#/\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\nOrigin: https://www.cool-etv.net"
+  }
+]
